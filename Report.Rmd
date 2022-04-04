@@ -15,7 +15,7 @@ https://mlebertheyl.shinyapps.io/stat294_H2/
 https://github.com/mlebertheyl
 
 **Github repository for this project**
-https://github.com/mlebertheyl/STAT294
+https://github.com/mlebertheyl/stat294_H2
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
